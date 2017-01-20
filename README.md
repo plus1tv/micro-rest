@@ -1,22 +1,22 @@
 # micro-rest
+> Starter pack for building REST services with micro
 > Repo meant to be cloned for our REST microservices
 
 ### Usage
-+ clone the repo and name it
-```bash
-git clone https://github.com/hyperfuse/micro-rest.git [name]
-```
++ Clone the repository
+  ```bash
+  git clone https://github.com/hyperfuse/micro-rest.git
+  ```
 
-+ install dependencies
-```bash
-yarn
-```
++ Install the dependencies
+  ```bash
+  yarn
+  ```
 
-+ start microservice
-```bash
-yarn start
-```
-
++ Start the microservice
+  ```bash
+  yarn start
+  ```
 
 + Make it your own!
 
